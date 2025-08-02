@@ -1,24 +1,73 @@
-# 💫 About Me:
-B.Tech student in Electrical and Electronics Engineering at Sir C.R.Reddy College of Engineering<br>Skilled in Python, C, HTML, CSS, and familiar with Matlab, Java, SQL, and JavaScript.<br><br>Passionate about Electric Vehicle (EV) technology, with hands-on internship experience.<br><br>Certified in Python, Machine Learning (Microsoft), and Home Electronics (APSSDC-Siemens).<br><br>Strong problem-solving, teamwork, and communication abilities.<br><br>
+<h1 align="center">⚡ Hi, I'm Parusubothu Venkata Rao</h1>
+<h3 align="center">An Electrical Engineering Student passionate about Coding & Embedded Systems</h3>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/venkataraoparusubothu/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parusubothuvenkatarao@gmail.com) 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dare-marvel/PSIPL/main/Images/C%20Programming.png" width="400" alt="C Programming">
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Venkatarao50&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Venkatarao50&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatarao50&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Venkatarao50&label=Profile%20views&color=0e75b6&style=flat" alt="Venkatarao50" /> </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Venkatarao50&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Venkatarao50&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧑‍💻 About Me:
+- 🔌 **Electrical Engineering Student** with a coding passion
+- 🌱 Currently learning: **Java, C, Python, Arduino, MATLAB Simulink**
+- 💻 **Daily coding practitioner** on HackerRank
+- 💬 Ask me about: **Java & Embedded Systems**
+- 📫 Reach me: **parusubothuvenkatarao@gmail.com**
+- ⚡ Fun fact: I believe circuits and code speak the same binary language!
+
+---
+
+## 🌐 Connect with Me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parusubothuvenkatarao@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Venkatarao50)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/parusubothuvenk2)
+
+---
+
+## 🛠️ Tech Stack
+### Languages:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Embedded & Engineering:
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### Tools:
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Alight Motion](https://img.shields.io/badge/Alight_Motion-000000?style=for-the-badge&logo=alight-motion&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Venkatarao50&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Venkatarao50&theme=dark" />
+</p>
+
+---
+
+## 💡 Today's Coding Quote
+> "First, solve the problem. Then, write the code."  
+> **— John Johnson**
+
+---
+
+<p align="center">
+  <img src="https://github.com/jaswanthgec/jaswanthgec/blob/main/assets/github-snake.svg" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif" width="100%">
+</p>
